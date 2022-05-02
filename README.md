@@ -1,2 +1,2 @@
-# tolocrypto.ht
- Built to keep us under control
+# tolocrypto
+ Crypto fast and secure
